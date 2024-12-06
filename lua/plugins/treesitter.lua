@@ -9,6 +9,8 @@ return {
     ensure_installed = {
       "lua",
       "vim",
+      "java",
+      "ledger",
       -- add more arguments for adding more treesitter parsers
     },
   },
